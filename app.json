@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "EveryNote",
+    "slug": "EveryNote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "scheme": "everynote",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.avish.everynote",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-sqlite",
+      "expo-web-browser"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "96175ba0-21bb-43a4-84fb-ecd3ef756397"
+      }
+    }
+  }
+}
