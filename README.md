@@ -24,7 +24,8 @@ Below is the visual flow of the app — from login to note management.
 ### 🔹 WorkFlow
 ![WorkFlow](./assets/workflow.png)
 
-
+### 🔹 Database
+![Database](./assets/Database.png)
 
 ---
 
