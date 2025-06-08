@@ -31,10 +31,8 @@ Below is the visual flow of the app — from login to note management.
 ## 🛠️ Tech Stack
 
 - **Frontend**: Expo SDK + React Native + TypeScript  
-- **Backend**: Next.js + tRPC + Drizzle ORM  
 - **Database**: PostgreSQL (with PowerSync for syncing) + SQLite (offline)  
 - **Authentication**: Google OAuth (Better-Auth)  
-- **Editor**: 10tap-editor  
 - **Design**: Custom + react-native-reusables
 
 ---
